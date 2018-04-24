@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "cliniquemoov",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 47,
@@ -35,7 +35,9 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
