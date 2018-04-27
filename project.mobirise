@@ -36,7 +36,7 @@
     },
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/ms-icon-310x310-128x128.png",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": ""
   },
   "pages": {
@@ -1467,11 +1467,11 @@
           "_name": "content1",
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>L’orthothérapie est une spécialisation relativement jeune au Canada puisqu’elle est pratiquée depuis les années 1970. Elle occupe toutefois une place prépondérante dans l’éventail des techniques manuelles holistiques.</b></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qQrWlhRjQi",
+          "_anchor": "content1-1w",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-1w"
+          "_params": {}
         },
         {
           "_styles": {
