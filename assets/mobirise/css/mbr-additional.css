@@ -6333,6 +6333,15 @@ body {
 .cid-qPMvFm7ckK .dropdown-item:hover {
   color: #767676 !important;
 }
+.cid-qR235tdpCb {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-color: #ffffff;
+}
+.cid-qR235tdpCb .mbr-text,
+.cid-qR235tdpCb blockquote {
+  color: #767676;
+}
 .cid-qQPDIxBMfR {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -6788,7 +6797,7 @@ body {
 .cid-qQWwKtfkT2 {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/crystal-clear-ice-hd-picture-2-2000x1333.jpg");
+  background-image: url("../../../assets/images/crystal-clear-ice-hd-picture-3-2000x1333.jpg");
 }
 .cid-qQWwKtfkT2 H2 {
   color: #333333;
