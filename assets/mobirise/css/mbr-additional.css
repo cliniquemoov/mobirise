@@ -1756,7 +1756,7 @@ body {
 .cid-qPMxZyS3PB {
   padding-top: 135px;
   padding-bottom: 135px;
-  background-image: url("../../../assets/images/jesper-aggergaard-495757-unsplash-8-2000x1333.jpg");
+  background-image: url("../../../assets/images/jesper-aggergaard-495757-unsplash-2000x1333.jpg");
 }
 .cid-qPMxZyS3PB .mbr-section-subtitle {
   letter-spacing: .2rem;
@@ -1817,19 +1817,6 @@ body {
     flex: 0 0 20%;
     max-width: 20%;
     padding: 15px;
-  }
-}
-.cid-qPN2tLpeii {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background: #ffffff;
-}
-.cid-qPN2tLpeii .video-block {
-  margin: auto;
-}
-@media (max-width: 768px) {
-  .cid-qPN2tLpeii .video-block {
-    width: 100% !important;
   }
 }
 .cid-qRLwBL8FZx {
@@ -5335,64 +5322,6 @@ body {
 }
 .cid-qQOWPXEvai .mbr-author-desc {
   color: #232;
-}
-.cid-qQP54BYeAh {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-qQP54BYeAh .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qQP54BYeAh .media-container-row {
-  -webkit-flex-wrap: wrap;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
-}
-.cid-qQP54BYeAh .mbr-text {
-  color: #767676;
-}
-.cid-qQP54BYeAh .mbr-author-desc {
-  display: block;
-  color: #767676;
-}
-.cid-qQP54BYeAh .mbr-author-name {
-  color: #767676;
-}
-.cid-qQP54BYeAh .mbr-testimonial .panel-item {
-  background-color: #ffffff;
-}
-.cid-qQP54BYeAh .mbr-testimonial .card-block {
-  -webkit-flex-grow: 0;
-  flex-grow: 0;
-  padding: 2.4rem 2.4rem 0 2.4rem;
-}
-.cid-qQP54BYeAh .mbr-testimonial .card-block .testimonial-photo {
-  display: inline-block;
-  width: 120px;
-  height: 120px;
-  margin-bottom: 1.6rem;
-  overflow: hidden;
-  border-radius: 50%;
-}
-.cid-qQP54BYeAh .mbr-testimonial .card-block .testimonial-photo img {
-  width: 100%;
-  min-width: 100%;
-  min-height: 100%;
-}
-.cid-qQP54BYeAh .mbr-testimonial .card-footer {
-  padding-bottom: 2.4rem;
-  border-top: 0;
-  padding-top: 1rem;
-  word-wrap: break-word;
-  word-break: break-word;
-  background: none;
-}
-@media (max-width: 300px) {
-  .cid-qQP54BYeAh .testimonial-photo {
-    width: 100% !important;
-    height: auto !important;
-  }
 }
 .cid-qQxxsDwHSa {
   padding-top: 60px;
