@@ -21,9 +21,6 @@
 		<loc>http://cliniquemoov.com/page7.html</loc>
 	</url>
 	<url>
-		<loc>http://cliniquemoov.com/page9.html</loc>
-	</url>
-	<url>
 		<loc>http://cliniquemoov.com/page10.html</loc>
 	</url>
 	<url>
@@ -34,5 +31,8 @@
 	</url>
 	<url>
 		<loc>http://cliniquemoov.com/page13.html</loc>
+	</url>
+	<url>
+		<loc>http://cliniquemoov.com/page14.html</loc>
 	</url>
 </urlset>
